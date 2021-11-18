@@ -1,1 +1,3 @@
-# UrbexGuide app avaiable in english, german and norwegian
+# UrbexGuide
+
+This app is avaiable in english, german and norwegian
